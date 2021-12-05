@@ -73,14 +73,14 @@
        cy="20.807999"
        cx="20.807997"
        id="path1195"
-       style="fill:#223240;fill-opacity:1;stroke:none;stroke-width:0.520748" />
+       style="fill:#002937;fill-opacity:1;stroke:none;stroke-width:0.520748" />
     <rect
        y="-12.883249"
        x="59.6894"
        height="34.226341"
        width="35"
        id="rect234"
-       style="fill:#223240;fill-opacity:1;stroke-width:0.982604" />
+       style="fill:#002937;fill-opacity:1;stroke-width:0.982604" />
     <path
        id="path851"
        style="opacity:1;fill:#fabf41;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

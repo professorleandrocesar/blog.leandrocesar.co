@@ -35,7 +35,7 @@
 
 /* Início dos códigos do 'footer' */
 footer {
-  background: #223241;
+  background: #002937;
   width: 100%;
   height: 300px;
   clear: both;
@@ -129,7 +129,7 @@ footer a {
 
     /* Início dos códigos do 'footer' */
   footer {
-    background: #223241;
+    background: #002937;
     width: 100%;
     height: 220px;
     clear: both;

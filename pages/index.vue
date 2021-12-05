@@ -37,7 +37,8 @@ export default {
   data() {
     return {
       content: `
-      <a href="https://blog.leandrocesar.co/lesoes/joelho-lca">Lesões de Joelho - Ligamento Cruzado Anterior (LCA)</a>
+      <h1>Em construção!!</h2>
+      <!-- <a href="https://blog.leandrocesar.co/lesoes/joelho-lca">Lesões de Joelho - Ligamento Cruzado Anterior (LCA)</a> -->
       `,
       aplicar: true,
       aplicarTwo: false,
@@ -49,7 +50,8 @@ export default {
   methods: {
     home() {
       this.content = `
-        <a href="https://blog.leandrocesar.co">Lesões de Joelho - Ligamento Cruzado Anterior (LCA)</a>
+      <h1>Em construção!!</h2>
+      <!-- <a href="https://blog.leandrocesar.co/lesoes/joelho-lca">Lesões de Joelho - Ligamento Cruzado Anterior (LCA)</a> -->
       `,
       this.aplicar= true,
       this.aplicarTwo= false,
@@ -69,7 +71,8 @@ export default {
     },
     lesoes() {
       this.content = `
-        <a href="https://blog.leandrocesar.co/lesoes/joelho-lca">Lesões de Joelho - Ligamento Cruzado Anterior (LCA)</a>
+      <h1>Em construção!!</h2>
+      <!-- <a href="https://blog.leandrocesar.co/lesoes/joelho-lca">Lesões de Joelho - Ligamento Cruzado Anterior (LCA)</a> -->
       `,
       this.aplicar= false,
       this.aplicarTwo= false,
