@@ -155,6 +155,10 @@ body {
     cursor: pointer;
   }
 
+  .nav-in a:hover {
+    color: #fadb4190
+  }
+
   .nav-in a.router-link-exact-active {
     color: #fadb41;
     border-bottom: solid 1px #fadb41;

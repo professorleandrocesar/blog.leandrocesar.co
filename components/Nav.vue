@@ -59,6 +59,10 @@
     transition: all 0.24s linear;
 }
 
+#nav a:hover {
+    text-decoration: underline;
+}
+
 #nav a.nuxt-link-exact-active {
     color: #fadb41;
     text-decoration: underline;  
