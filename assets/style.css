@@ -9,21 +9,21 @@ body {
     font-size: 32px;
     text-align: center;
     margin: 0;
-    color: #fabf41;
+    color: #fadb41;
     font-weight: bold;
   }
 
   h2 {
     font-size: 30px;
     text-align: center;
-    color: #fabf41;
+    color: #fadb41;
     font-weight: bold;
   }
 
   h3 {
     font-size: 26px;
     text-align: center;
-    color: #fabf41;
+    color: #fadb41;
     font-weight: bold;
     margin: 5px auto;
   }
@@ -156,12 +156,12 @@ body {
   }
 
   .nav-in a.router-link-exact-active {
-    color: #fabf42;
-    border-bottom: solid 1px #fabf41;
+    color: #fadb41;
+    border-bottom: solid 1px #fadb41;
   }
 
   .fasi {
-    color: #fabf41;
+    color: #fadb41;
     font-size: 34px;
     margin:auto;
   }
@@ -192,7 +192,7 @@ body {
   }
   
   .main a:hover {
-    background: #fabf41;
+    background: #fadb41;
     color: #fff;
   }
 
@@ -228,7 +228,7 @@ body {
   }
   
   .main a:hover {
-    background: #fabf41;
+    background: #fadb41;
     color: #fff;
   }
 
@@ -260,7 +260,7 @@ body {
 }
 
 .dot:hover {
-  color: #fabf41;
+  color: #fadb41;
   background-color: #d8d8d840;
 }
 
@@ -364,7 +364,7 @@ td {
   }
   
   .main a:hover {
-    background: #fabf41;
+    background: #fadb41;
     color: #fff;
   }
 

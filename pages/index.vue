@@ -121,7 +121,7 @@ export default {
 
 #navTitle h1{
     font-weight: bold;
-    color: #fabf42;
+    color: #fadb41;
     display: inline;
     transition: all 0.24s linear;
     cursor: pointer;
@@ -129,7 +129,7 @@ export default {
 }
 
 #navTitle a.nuxt-link-exact-active {
-    color: #fabf42;
+    color: #fadb41;
 }
 
 #nav {
@@ -155,7 +155,7 @@ export default {
 }
 
 .navTitleInLineHover {
-    color: #fabf42;
+    color: #fadb41;
     text-decoration: underline;  
 }
 @media only screen and (max-width: 1125px) {

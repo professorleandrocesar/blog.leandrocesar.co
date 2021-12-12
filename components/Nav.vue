@@ -30,13 +30,13 @@
 
 #navTitle a {
     font-weight: bold;
-    color: #fabf42;
+    color: #fadb41;
     display: inline;
     transition: all 0.24s linear;
 }
 
 #navTitle a.nuxt-link-exact-active {
-    color: #fabf42;
+    color: #fadb41;
 }
 
 #nav {
@@ -60,7 +60,7 @@
 }
 
 #nav a.nuxt-link-exact-active {
-    color: #fabf42;
+    color: #fadb41;
     text-decoration: underline;  
 }
 </style>

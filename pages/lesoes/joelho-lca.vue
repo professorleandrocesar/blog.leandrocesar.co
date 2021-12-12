@@ -141,7 +141,7 @@ head() {
 
 #navTitle a{
   font-weight: bold;
-  color: #fabf42;
+  color: #fadb41;
   display: inline;
   transition: all 0.24s linear;
   cursor: pointer;

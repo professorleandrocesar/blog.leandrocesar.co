@@ -80,13 +80,13 @@ footer a {
 
 .ul-icons a {
   color: #929292;
-  text-shadow: 1px 1px 1px #fabf4180;
+  text-shadow: 1px 1px 1px #fadb4180;
   transition: color .3s linear;
   margin: 0 15px;
 }
 
 .ul-icons a:hover {
-  color: #fabf41;
+  color: #fadb41;
 }
 
 .ul-icons a:active {
@@ -99,7 +99,7 @@ footer a {
 }
 
 .ul-icons-p a:hover {
-  color: #fabf41;
+  color: #fadb41;
 }
 
 .ul-icons-p a:active {
@@ -172,7 +172,7 @@ footer a {
 
   .ul-icons a {
     color: #929292;
-    text-shadow: 1px 1px 1px #fabf4180;
+    text-shadow: 1px 1px 1px #fadb4180;
     transition: color .3s linear;
     margin: 0 12px;
   }
