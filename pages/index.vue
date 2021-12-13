@@ -158,6 +158,10 @@ export default {
     color: #fadb41;
     text-decoration: underline;  
 }
+
+.navTitleInLine:hover {
+    color: #fadb4190;
+}
 @media only screen and (max-width: 1125px) {
   #nav {
     width: 60%
