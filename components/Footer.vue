@@ -61,7 +61,7 @@ footer a {
   margin: auto;
   text-align: center;
   width: 85%;
-  color: #929292;
+  color: #899fa4;
   clear: both;
 }
 
@@ -79,7 +79,7 @@ footer a {
 }
 
 .ul-icons a {
-  color: #929292;
+  color: #899fa4;
   text-shadow: 1px 1px 1px #fadb4180;
   transition: color .3s linear;
   margin: 0 15px;
@@ -94,7 +94,7 @@ footer a {
 }
 
 .ul-icons-p a {
-  color: #929292;
+  color: #899fa4;
   transition: color .3s linear;
 }
 
@@ -162,7 +162,7 @@ footer a {
     margin: auto;
     text-align: center;
     width: 100%;
-    color: #929292;
+    color: #899fa4;
     clear: both;
   } 
 
@@ -171,7 +171,7 @@ footer a {
   }
 
   .ul-icons a {
-    color: #929292;
+    color: #899fa4;
     text-shadow: 1px 1px 1px #fadb4180;
     transition: color .3s linear;
     margin: 0 12px;

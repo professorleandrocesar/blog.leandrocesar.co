@@ -146,7 +146,7 @@ export default {
 
 .navTitleInLine {
     font-weight: bold;
-    color: #d8d8d890;
+    color: #899fa4;
     display: inline;
     transition: all 0.24s linear;
     font-size: 1.3em;
