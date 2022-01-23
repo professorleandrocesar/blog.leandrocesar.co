@@ -24,7 +24,7 @@
                 </li>
             </ul>
         <p class="ul-icons-p ">
-          <a href="https://leandrocesar.co">leandrocesar.co</a> &copy; 2021 <br> CNPJ: 40.930.118/0001-33<br>| Leandro Cesar Ramos da Costa |
+          <a href="https://leandrocesar.co">leandrocesar.co</a> &copy; 2021-2022 <br> CNPJ: 40.930.118/0001-33<br>| Leandro Cesar Ramos da Costa |
         </p>
         </div>
     </footer>
