@@ -3,6 +3,8 @@
         <a href="https://leandrocesar.co"><LCLogo/></a>
         
         <h1>Leandro Cesar</h1>
+      <p class='ConSer'>Consultoria & Serviços</p>
+
         <div class="footer-icons-copyright">
             <ul class="ul-icons">
                  <li>
@@ -39,7 +41,7 @@ footer {
   width: 100%;
   height: 300px;
   clear: both;
-  margin: 30px 0;
+  margin:10px 0;
 }
 
 svg {
@@ -66,7 +68,7 @@ footer a {
 }
 
 .footer-icons-copyright li {
-  padding-top: 10px;
+  padding-top: 0px;
 }
 
 .ul-icons {
@@ -111,7 +113,12 @@ footer a {
   padding: 0;
 }
 
-
+.ConSer {
+  margin-top: -10px;
+  margin-bottom: 0px;
+  font-size: .8em;
+  color: #fadb41;
+}
 
 /* fim dos códigos do 'footer' */
 /* Início dos códigos para bloqueio dos conteúdos para celulares */
@@ -133,7 +140,7 @@ footer a {
     width: 100%;
     height: 220px;
     clear: both;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   svg {
@@ -167,7 +174,7 @@ footer a {
   } 
 
   .footer-icons-copyright li {
-  padding-top: 20px;
+  padding-top: 0px;
   }
 
   .ul-icons a {
@@ -176,6 +183,12 @@ footer a {
     transition: color .3s linear;
     margin: 0 12px;
   }
+
+  .ConSer {
+  margin-top: 10px;
+  font-size: .7em;
+}
+
 /* F i m  d a s  a l t e r a ç õ e s  e s p e c í f i c a s  d a  p á g i n a  *  F i m  d o  s l i d e  p r i n c i p a l  */
 }
 </style>
